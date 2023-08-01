@@ -1,0 +1,107 @@
+.paragraph {
+    display: flex;
+    flex-direction: row;
+}
+
+.duecento {
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+}
+
+.settantacinque {
+    background: pink;
+    display: flex;
+    flex-direction: row;
+    width: 75px;
+}
+
+.paragraph2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.item-1 {
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    width: 50px;
+}
+
+.item-2{
+    background: pink;
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+   
+}
+
+.item-3{
+    background: yellow;
+    display: flex;
+    flex-direction: row;
+    width: 75px;
+}
+
+.paragraph3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.item-1a {
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    width: 50px;
+}
+
+.item-2a{
+    background: pink;
+    display: flex;
+    flex-direction: row;
+    width: 50px;
+   
+}
+
+.item-3a{
+    background: yellow;
+    display: flex;
+    flex-direction: row;
+    width: 50px;
+}
+
+.item-4a{
+    background: rgb(0, 47, 255);
+    display: flex;
+    flex-direction: row;
+    width: 50px;
+}
+
+.paragraph4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    border-width: 1px;
+    border-color: grey;
+    border-style: solid;
+}
+
+.item-1b {
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    width: 50px;
+}
+
+.item-2b{
+    background: pink;
+    display: flex;
+    flex-direction: row;
+    width: 50px;
+   
+}
